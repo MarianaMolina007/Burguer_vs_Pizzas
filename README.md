@@ -10,11 +10,13 @@ Mariana Molina Montes
 Osvaldo Cesar Quinteros Terrazas
 
 
+
 Institution: Universidad Catolica Boliviana San Pablo
 
 Carrer: Mechatronic Engineer
 
 Subject: IMT-322 Embedded Systems 2 
+
 
 
 Run fall_test.py for CPU 
