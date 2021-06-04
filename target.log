@@ -1,0 +1,19 @@
+
+------------------------------------
+3.7.9 (default, Aug 31 2020, 12:42:55) 
+[GCC 7.3.0]
+------------------------------------
+Command line options:
+ --target_dir   :  target
+ --image_dir    :  dataset/test
+ --input_height :  200
+ --input_width  :  250
+ --num_images   :  200
+ --app_dir      :  application
+ --model        :  compiled_model/customcnn.xmodel
+------------------------------------
+
+Resizing and copying 200 images...
+  0%|          | 0/200 [00:00<?, ?it/s]  3%|▎         | 6/200 [00:00<00:03, 57.42it/s]  8%|▊         | 16/200 [00:00<00:02, 76.98it/s] 14%|█▎        | 27/200 [00:00<00:01, 88.93it/s] 20%|██        | 40/200 [00:00<00:01, 102.43it/s] 27%|██▋       | 54/200 [00:00<00:01, 114.37it/s] 38%|███▊      | 75/200 [00:00<00:00, 143.43it/s] 48%|████▊     | 95/200 [00:00<00:00, 157.44it/s] 60%|██████    | 120/200 [00:00<00:00, 183.98it/s] 76%|███████▋  | 153/200 [00:00<00:00, 227.75it/s] 90%|█████████ | 181/200 [00:01<00:00, 242.15it/s]100%|██████████| 200/200 [00:01<00:00, 174.14it/s]
+Copying application code from application ...
+Copying compiled model from compiled_model/customcnn.xmodel ...
